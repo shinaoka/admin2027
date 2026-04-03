@@ -54,3 +54,9 @@
 - バーチャルツアーあり
 - 主出典: <https://minnanospace.com/naha-tsubokawa-space/>
 - Wi-Fi参考出典: <https://minnanospace.com/tsubokwa-wifi-speed/>
+
+## 試算メモ
+
+- 条件: 平日、201会議室のみ 9:00-22:00、202-204会議室は 9:00-19:00
+- 1日あたり合計: 192,950円（税込）
+- 4日間合計: 771,800円（税込）
