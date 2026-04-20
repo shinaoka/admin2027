@@ -76,3 +76,10 @@
 - 支払いは前払い
 - 主出典: <https://minnanospace.com/naha-izumizaki-space/>
 - Wi-Fi参考出典: <https://minnanospace.com/naha-izumizaki-wifi-speed/>
+
+## 試算メモ
+
+- 条件: 平日1日分、10時間利用、2F・3F・4Fを借り切り
+- 対象会議室: 201・202・301・401・402・403
+- 1時間あたり合計: 30,800円（税込）
+- 1日あたり合計: 308,000円（税込）
