@@ -50,7 +50,7 @@
 
 ## 補足
 
-- フロアマップあり
+- 2階フロア図 PNG あり
 - バーチャルツアーあり
 - 主出典: <https://minnanospace.com/naha-tsubokawa-space/>
 - Wi-Fi参考出典: <https://minnanospace.com/tsubokwa-wifi-speed/>
