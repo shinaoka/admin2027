@@ -51,6 +51,9 @@
 ## 補足
 
 - 2階フロア図 PNG あり
+- ComPhysHack2026 で使用実績あり
+- Wi-Fi は十分強いことを確認済み
+- ただし、100名超規模の開催への対応は難しそう
 - バーチャルツアーあり
 - 主出典: <https://minnanospace.com/naha-tsubokawa-space/>
 - Wi-Fi参考出典: <https://minnanospace.com/tsubokwa-wifi-speed/>
